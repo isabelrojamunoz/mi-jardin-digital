@@ -1,0 +1,19 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Ñuñoa",
+			"country": {
+				"code": "CL",
+				"name": "Chile"
+			},
+			"subdivision": {
+				"code": "RM",
+				"name": "Santiago Metropolitan"
+			},
+			"timezone": "America/Santiago",
+			"latitude": -33.4457,
+			"longitude": -70.5865
+		},
+		"timestamp": 1757115637939
+	}
+}
